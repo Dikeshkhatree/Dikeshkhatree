@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Dikesh Khatri
 
-<!--
-**Dikeshkhatree/Dikeshkhatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate Software Developer from Nepal  
+🔧 Skilled in: `Laravel`, `PHP`, `MySQL`, `Filament`, `Livewire`, `Linux`  
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 I enjoy turning complex problems into simple, elegant solutions using modern web technologies.  
+🌐 You can reach me through my portfolio: [dikeshkhatree.github.io/Portfolio](https://dikeshkhatree.github.io/Portfolio)
+
+---
+
+## 🛠️ Skills
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-563D7C?style=for-the-badge&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
