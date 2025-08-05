@@ -8,7 +8,7 @@
 ---
 
 🌟 I enjoy turning complex problems into simple, elegant solutions using modern web technologies.  
-🌐 You can reach me through my portfolio: [dikeshkhatree.github.io/Portfolio](https://dikeshkhatree.github.io/Portfolio)
+🌐 You can reach me through my portfolio: [dikeshkhatri.com.np](https://dikeshkhatri.com.np)
 
 ---
 
